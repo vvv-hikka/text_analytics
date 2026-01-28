@@ -7,7 +7,6 @@ This project contains two main notebooks for text analytics tasks:
 This notebook implements comprehensive TF-IDF analysis on song lyrics:
 
 1. **Data Preparation**: 
-   - Three English songs (Bohemian Rhapsody, Hotel California, Stairway to Heaven)
    - Text preprocessing: lowercase, stopword removal, lemmatization, tokenization
 
 2. **TF-IDF Implementation**:
